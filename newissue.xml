@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newIssue>
+  <Project>Demo (DEMO)</Project>
+  <Issue_Type>Bug</Issue_Type>
+  <SummaryRequired>Test_Bug1</SummaryRequired>
+  <Components>Wings</Components>
+  <Affects_Versions>Test</Affects_Versions>
+  <Environment>CPU: AMD Athlon 64 X2. Windows 7 Service Pack 1 </Environment>
+    <Description>Test from XML </Description>
+</newIssue> 
